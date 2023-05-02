@@ -1,0 +1,59 @@
+			DataType
+			--------
+1) (8)Primitive			2) NonPrimitive
+-----------------		-----------------	
+int---10			String / User Defined DataType----class
+long---10L
+float---10.50f
+Double---10.50
+
+import java.util.Scanner;
+   |
+Scanner---sc
+
+
+---> boolean =  sc.nextBoolean();
+---> byte = sc.nextByte();
+
+---> char------
+
+	1) By System class
+		char value = (char)System.in.read();// R
+
+	2) By Scanner class
+
+		ochar value = sc.next().charAt(0);// R
+
+
+---> short = sc.nextShort();
+---> int = sc.nextInt();
+---> long = sc.nextLong();
+---> float = sc.nextFloat();
+---> double = sc.nextDouble();
+
+
+
+
+
+1) String 
+
+	Single word = sc.next();
+
+	Multiple in single line word = sc.nextLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

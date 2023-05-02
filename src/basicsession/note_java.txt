@@ -1,0 +1,87 @@
+
+OAK	    SunMicroSystem----> OAK--1995--Java 1st Version	
+ |       ---------------------
+Java --- James Arthur Gosling---[Dr. Java]
+
+Java Programme:-
+---------------
+
+JDK-17 - "Java Devlopment KIT"
+-------
+1) compile---JavaCompiler---17
+2) run---[JRE---Java Runtime Environment]--17
+3) src.zip[Built-In class/lib]---17
+
+
+Strong IDE--- eclipse---Built-In classess--references
+
+System.out.println
+
+
+Command Prompt
+
+JDK--INSTALL---Java Compiler--Configure---Steps
+
+1) Compile(compiler---[INSTALL + Configure])---[javac -version]
+2) Run(JRE---[INSTALL])---java---[java -version]
+--------------------------------------------------------------
+JDK17---LTS---[LONG TERM SUPPORT]
+
+
+
+------------------------------------------------------------------------------
+
+// 1) define package(folder)---Optional
+
+// 2) import statements
+
+// 3) define class
+
+
+
+
+
+
+
+
+
+1) compile---[javac JavaFileName.java]
+
+TestApp.java---compile---Java Compiler---[TestApp.class<---Bytecode file]
+
+1) JavaCompiler---[SourceFile-----ClassFile(Bytecode file)]
+
+
+2) JRE---[ClassFile--load---run---output]
+2) run---[java ClassName]---[java TestApp]--JRE---Class Load---[RUN--OUTPUT]
+
+
+
+C:\Users\Royal\Desktop\22june_gnrl1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
